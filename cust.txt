@@ -1,0 +1,9 @@
+10|John Smith|123 Here Street|456-4567
+150|Sue Jones|43 Rose Court Street|345-7867
+3|Fan Yuhong|165 Happy Lane|345-4533
+1|Nelly|123 Here Street|456-4567
+2|Jose|43 Rose Court Street|345-7867
+7|Juan|165 Happy Lane|345-4533
+11|Javier|123 Here Street|456-4567
+9|Rodrigo |43 Rose Court Street | 345-7867
+6|Alfredo|165 Happy Lane|345-4533

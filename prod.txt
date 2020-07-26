@@ -1,0 +1,14 @@
+1|shoes|14.4
+2|milk|2
+6|jacket|42.99
+3|jam|2.99
+4|gum | 1.25
+5|eggs|22.98
+0|map|121.99
+12|tequila  |232.995555
+8|ron|154.25
+15|vodka|2.98
+26|mojito|42.99
+23|beer|2.99
+44|water|1.25
+225|orange|2.98
